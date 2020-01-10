@@ -25,6 +25,7 @@ Please do the following:
 5. Open Another Terminal ->Expression folder -> yarn start
 
 - Errors(any errors you get for development either on emulator or smartphone devices):
+
 1st Choice:
 - npm install
 - yarn install
