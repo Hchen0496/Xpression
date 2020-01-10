@@ -15,11 +15,6 @@ Please do the following:
 - npm i react-native-modal-dropdown -save
 - Please download datagrip for software and select postgresSQL as a database and enter the infomation under the server/api/config/config.json
 
-# New Update needs to be installed as of 11/29/2019
-- expo install expo-image-picker
-- yarn add react-native-image-view
-- yarn add react-native-cn-richtext-editor
-
 # Mac User Installation Guide:
 
 # Instructions to open the Projects
@@ -49,3 +44,8 @@ Please do the following:
 # Errors when starting up your emulator
 - Do a cold Boot on your emulator (If it doesn't work proceed to the next bullet)
 - Wipe the data on your emulator
+
+# New Update needs to be installed as of 11/29/2019
+- expo install expo-image-picker
+- yarn add react-native-image-view
+- yarn add react-native-cn-richtext-editor
