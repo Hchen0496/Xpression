@@ -50,3 +50,8 @@ Please do the following:
 - expo install expo-image-picker
 - yarn add react-native-image-view
 - yarn add react-native-cn-richtext-editor
+
+# What is being used?
+- Front End: React-Native.js
+- Back End: Node.js
+- Database: Firebase & PostgreSQL
