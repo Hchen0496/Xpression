@@ -52,6 +52,6 @@ Please do the following:
 - yarn add react-native-cn-richtext-editor
 
 # What is being used?
-- Front End: React-Native.js
+- Front End: React/React-Native
 - Back End: Node.js
 - Database: Firebase & PostgreSQL
